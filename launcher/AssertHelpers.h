@@ -16,7 +16,7 @@
  *  along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-#pragma once
+#pragma once 
 
 #if defined(ASSERT_NEVER)
 #error ASSERT_NEVER already defined
